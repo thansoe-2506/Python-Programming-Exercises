@@ -1,2 +1,3 @@
-# Python-Programming-Exercises
-this code are from the book(Python Programming Exercises Gently Explained), most codes are included in the book
+# Python-Programming-Exercises-Gently-Explained
+this code samples are from the book(Python Programming Exercises Gently Explained), most code samples are included in the book.
+some samples are different
